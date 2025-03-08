@@ -1,0 +1,12 @@
+class product1{
+	
+	
+}
+public class product {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

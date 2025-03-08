@@ -1,0 +1,19 @@
+import java.util.PriorityQueue;
+public class cf4 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+PriorityQueue<Integer> pq=new PriorityQueue<>();
+pq.offer(40);
+pq.offer(12);
+pq.offer(24);
+
+pq.offer(12);
+pq.offer(26);
+pq.offer(36);
+pq.poll();
+System.out.println(pq);
+System.out.println(pq.peek());
+	}
+
+}

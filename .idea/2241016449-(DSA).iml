@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$USER_HOME$/Desktop">
+      <sourceFolder url="file://$USER_HOME$/Desktop/frontend2/ipark_v1.2_server/back-end/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/frontend2/ipark_v1.2_server/back-end/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/hws-team90/ipark_v1.2_server/back-end/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/hws-team90/ipark_v1.2_server/back-end/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/ipark_v1.2_server-main/back-end/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/ipark_v1.2_server-main/back-end/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/ipark_v1.2_server/back-end/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/ipark_v1.2_server/back-end/src/test/java" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/iparkversion0.1/ipark_v1.0" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449(CSW2)/Assingment1/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449(CSW2)/Assingment2/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449(CSW2)/Assingment4/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449(CSW2)/CSW2_CLASS1/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449(CSW2)/Lmadas/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449(CSW2)/THREAD/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449(HTML)/assingment4/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(DSA)/3RD SEM/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(DSA)/AD PRACTICE/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(DSA)/AD2(CLASS)/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(DSA)/ASSINGEMENT-4/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(DSA)/ASSINGMENT -1/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(DSA)/ASSINGMENT-2/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(DSA)/ASSINGMENT-3/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(DSA)/ASSINGMENT-6/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(DSA)/CLASS_AND_OBJECT/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(DSA)/CODEWAR/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(DSA)/DSA PRACTICAL/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(DSA)/END SEM/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(DSA)/ad2/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(DSA)/collection framework/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(DSA)/comparator/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(DSA)/csw/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(piku)/3RD SEM/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(piku)/AD PRACTICE/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(piku)/ASSINGEMENT-4/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(piku)/ASSINGMENT -1/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(piku)/ASSINGMENT-2/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(piku)/ASSINGMENT-3/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(piku)/ASSINGMENT-6/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(piku)/CLASS_AND_OBJECT/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(piku)/CODEWAR/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(piku)/DSA PRACTICAL/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(piku)/LINKEDLIST/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(piku)/PRACTICE/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(piku)/Threads/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(piku)/collection framework/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(piku)/comparator/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(piku)/csw/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(piku)/exception_handling/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(piku)/labexam/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(piku)/midsem-1/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(piku)/miniproject/MINIPROJECT2/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(piku)/miniproject2/MINIPROJECT/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(piku)/ok/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(piku)/practice2/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449-(piku)/welcome_back/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449/AD-1l_ab/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449/ALGORITH_DESIGN/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449/ASSINGMENT 6/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449/ASSINGMENT3/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449/Assingment4/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/2241016449/assingment/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/IMPORT/PRAYAS 2.O/piku2241016449/ARRAY PRACTICE" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/IMPORT/PRAYAS 2.O/piku2241016449/ARRAYQUESTION/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/IMPORT/PRAYAS 2.O/piku2241016449/Assingment5/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/IMPORT/PRAYAS 2.O/piku2241016449/Assingment6/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/IMPORT/PRAYAS 2.O/piku2241016449/Class and Object/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/IMPORT/PRAYAS 2.O/piku2241016449/JAVAPROJECT/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/IMPORT/PRAYAS 2.O/piku2241016449/METHARD QUESTION/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/IMPORT/PRAYAS 2.O/piku2241016449/MID-SEM/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/IMPORT/PRAYAS 2.O/piku2241016449/MethardandFunction/METHARD AND FUNCTION/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/IMPORT/PRAYAS 2.O/piku2241016449/StringQuestion/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/IMPORT/pikupranjal(2241016449)" isTestSource="false" packagePrefix="piku_pranjal_REGD_NO_2241016449" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/csw practice/practice/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/csw practice/practice2/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/csw practice/practice3/src" isTestSource="false" />
+      <sourceFolder url="file://$USER_HOME$/Desktop/transfer/csw practice/practice4/src" isTestSource="false" />
+    </content>
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,129 @@
+import java.util.Arrays;
+
+class Date {
+    private int day;
+    private int month;
+    private int year;
+
+    public Date(int day, int month, int year) {
+        this.day = day;
+        this.month = month;
+        this.year = year;
+    }
+
+    public String toString() {
+        return String.format("%02d-%02d-%04d", day, month, year);
+    }
+}
+
+class Address {
+    private String street;
+    private String city;
+    private String state;
+    private String country;
+
+    public Address(String street, String city, String state, String country) {
+        this.street = street;
+        this.city = city;
+        this.state = state;
+        this.country = country;
+    }
+
+    public String toString() {
+        return String.format("%s, %s, %s, %s", street, city, state, country);
+    }
+}
+
+class Employee {
+    private String name;
+    private int empId;
+    private double salary;
+    private Date hireDate;
+    private String jobPosition;
+    private String contactNumber;
+    private Address address;
+
+    public Employee(String name, int empId, double salary, Date hireDate, String jobPosition,
+                    String contactNumber, Address address) {
+        this.name = name;
+        this.empId = empId;
+        this.salary = salary;
+        this.hireDate = hireDate;
+        this.jobPosition = jobPosition;
+        this.contactNumber = contactNumber;
+        this.address = address;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public int getEmpId() {
+        return empId;
+    }
+
+    public double getSalary() {
+        return salary;
+    }
+
+    public Date getHireDate() {
+        return hireDate;
+    }
+
+    public String getJobPosition() {
+        return jobPosition;
+    }
+
+    public String getContactNumber() {
+        return contactNumber;
+    }
+
+    public Address getAddress() {
+        return address;
+    }
+    public static void arrangeEmployeeBySalary(Employee[] employees) {
+    	for (int i = 0; i < employees.length; i++) {
+    	for (int j = i + 1; j < employees.length; j++) {
+    	if (employees[i].salary < employees[j].salary) {
+    	Employee temp = employees[i];
+    	employees[i] = employees[j];
+    	employees[j] = temp;
+    	}
+    	}
+    	}
+    	}
+
+    public String toString() {
+        return "Name: " + name +
+                "\nEmployee ID: " + empId +
+                "\nSalary: " + salary +
+                "\nHire Date: " + hireDate +
+                "\nJob Position: " + jobPosition +
+                "\nContact Number: " + contactNumber +
+                "\nAddress: " + address + "\n";
+    }
+}
+
+public class Test {
+    public static void main(String[] args) {
+        // Create an array of employees
+        Employee[] employees = new Employee[500];
+
+        // Populate the employee database
+        for (int i = 0; i < 500; i++) {
+            String name = "Employee " + (i + 1);
+            int empId = i + 1;
+            double salary = Math.random() * 500000;
+            Date hireDate = new Date((int) (Math.random() * 31) + 1, (int) (Math.random() * 12) + 1, 2022);
+            String jobPosition = (i < 250) ? "Manager" : "Employee";
+            String contactNumber = "+1 123-456-7890";
+            Address address = new Address("Street " + (i + 1), "City", "State", "Country");
+            employees[i] = new Employee(name, empId, salary, hireDate, jobPosition, contactNumber, address);
+        }
+
+        // Arrange employees by salary in descending order
+       Employee. arrangeEmployeeBySalary(employees);
+
+        // Display details of employees whose jobPosition is "
+        
+    }}
